@@ -1,0 +1,11 @@
+C:\Users\tdavi\workspace\csharp\TryCatchExample\bin\Debug\netcoreapp3.1\TryCatchExample.exe
+C:\Users\tdavi\workspace\csharp\TryCatchExample\bin\Debug\netcoreapp3.1\TryCatchExample.deps.json
+C:\Users\tdavi\workspace\csharp\TryCatchExample\bin\Debug\netcoreapp3.1\TryCatchExample.runtimeconfig.json
+C:\Users\tdavi\workspace\csharp\TryCatchExample\bin\Debug\netcoreapp3.1\TryCatchExample.runtimeconfig.dev.json
+C:\Users\tdavi\workspace\csharp\TryCatchExample\bin\Debug\netcoreapp3.1\TryCatchExample.dll
+C:\Users\tdavi\workspace\csharp\TryCatchExample\bin\Debug\netcoreapp3.1\TryCatchExample.pdb
+C:\Users\tdavi\workspace\csharp\TryCatchExample\obj\Debug\netcoreapp3.1\TryCatchExample.csprojAssemblyReference.cache
+C:\Users\tdavi\workspace\csharp\TryCatchExample\obj\Debug\netcoreapp3.1\TryCatchExample.AssemblyInfoInputs.cache
+C:\Users\tdavi\workspace\csharp\TryCatchExample\obj\Debug\netcoreapp3.1\TryCatchExample.AssemblyInfo.cs
+C:\Users\tdavi\workspace\csharp\TryCatchExample\obj\Debug\netcoreapp3.1\TryCatchExample.dll
+C:\Users\tdavi\workspace\csharp\TryCatchExample\obj\Debug\netcoreapp3.1\TryCatchExample.pdb
